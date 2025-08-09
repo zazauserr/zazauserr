@@ -14,16 +14,17 @@
   <img src="https://github-readme-stats.vercel.app/api?username=zazauserr&show_icons=true&theme=radical&hide_border=true&count_private=true&hide_title=true" />
 </div>
 <br>
+</div>
+<br>
 <div align="center">
   
 <a href="mailto:badyambula.backrooms@gmail.com?subject=Contact%20from%20GitHub&body=Hello!%20I%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20get%20in%20touch.">
   <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" />
 </a>
-<a href="https://discord.com/channels/@me/znak9voprosa">
+<a href="https://discord.com/users/znak9voprosa">
   <img src="https://skillicons.dev/icons?i=discord" width="50" height="50" />
 </a>
 </div>
 </div>
 <br>
 </div>
-
