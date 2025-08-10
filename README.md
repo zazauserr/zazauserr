@@ -5,7 +5,6 @@
 <br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,postgres,mysql,git,vscode&theme=dark" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" style="margin: 0 4px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="48" height="48" style="margin: 0 4px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" style="margin: 0 4px;" />
 </div>
